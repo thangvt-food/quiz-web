@@ -1,0 +1,24 @@
+slug: quiz-web
+name: Simple Quiz
+tagline: Bộ quiz Excel đơn giản chạy tĩnh
+url: https://github.com/thangvt-food/quiz-web
+status: paused
+visibility: private
+description: Web quiz tĩnh chọn bộ đề từ quiz_manifest.json, làm bài và chấm điểm bằng JavaScript.
+tags:
+  - quiz
+  - trắc-nghiệm
+  - tĩnh
+category: learning
+tech:
+  - html
+  - css
+  - javascript
+  - firebase
+hosting: unknown
+updated: '2025-11-18'
+icon: ❓
+auth: none
+links:
+  repo: https://github.com/thangvt-food/quiz-web
+notes: Repo public, mở index.html hoặc deploy tĩnh; dữ liệu trong quizzes/.
